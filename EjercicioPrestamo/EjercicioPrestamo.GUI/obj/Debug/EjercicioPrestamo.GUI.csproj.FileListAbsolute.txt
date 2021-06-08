@@ -17,3 +17,22 @@ C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\Eje
 C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Datos.pdb
 C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.FormPrestamos.resources
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.Properties.Resources.resources
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.csproj.GenerateResource.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.GUI.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.GUI.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.GUI.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Negocio.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Datos.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Negocio.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\EjercicioPrestamo.Datos.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\CAI_EjercicioPrestamoDos\EjercicioPrestamo\EjercicioPrestamo.GUI\obj\Debug\EjercicioPrestamo.GUI.csproj.CopyComplete

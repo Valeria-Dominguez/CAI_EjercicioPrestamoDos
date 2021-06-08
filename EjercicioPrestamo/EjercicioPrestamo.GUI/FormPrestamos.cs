@@ -108,10 +108,10 @@ namespace EjercicioPrestamo.GUI
         {
             if (lstTipoPrestamos.DataSource != null)
             {
+                LimpiarCampos();
                 TipoPrestamo tipoSeleccionado = (TipoPrestamo)lstTipoPrestamos.SelectedItem;
                 txtLinea.Text = tipoSeleccionado.Linea;
                 txtTNA.Text = tipoSeleccionado.TNA.ToString("0.00");
-                LimpiarCampos();
             }
         }
 
@@ -128,9 +128,10 @@ namespace EjercicioPrestamo.GUI
                 Prestamo prestamo = new Prestamo();
 
                 prestamo.Linea = tipoSeleccionado.Linea;
+                prestamo.TNA = tipoSeleccionado.TNA;
                 prestamo.Plazo = int.Parse(txtPLazo.Text);
                 prestamo.Monto = double.Parse(txtMonto.Text);
-                ResultadoTransaccion resultado = this._prestamoNegocio.Agregar(prestamo);
+                ResultadoTransaccion resultado = this._prestamoNegocio.Agregar(prestamo, tipoSeleccionado);
 
                 MessageBox.Show(resultado.ToString());
                 CargarPrestamos();

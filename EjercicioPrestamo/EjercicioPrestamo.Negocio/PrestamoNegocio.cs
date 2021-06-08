@@ -47,9 +47,9 @@ namespace EjercicioPrestamo.Negocio
             return interesTotal * this._operador.ProcentajeComision;
         }
 
-        public ResultadoTransaccion Agregar(Prestamo prestamo)
+        public ResultadoTransaccion Agregar(Prestamo prestamo, TipoPrestamo tipoPrestamo)
         {
-            return this._prestamoMapper.Agregar(prestamo);
+            return this._prestamoMapper.Agregar(prestamo, tipoPrestamo);
         }
 
     }

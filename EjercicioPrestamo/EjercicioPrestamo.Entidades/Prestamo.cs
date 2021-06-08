@@ -14,7 +14,7 @@ namespace EjercicioPrestamo.Entidades
         double _tNA;
         int _plazo;
         double _monto;
-        string _usuario;
+        //string _usuario;
         int _id;
 
         public Prestamo()
@@ -36,8 +36,8 @@ namespace EjercicioPrestamo.Entidades
         public int Plazo { get => _plazo; set => _plazo = value; }
         [DataMember(Name= "monto")]
         public double Monto { get => _monto; set => _monto = value; }
-        [DataMember(Name= "usuario")]
-        public string Usuario { get => _usuario; set => _usuario = value; }
+        //[DataMember(Name= "usuario")]
+        //public string Usuario { get => _usuario; set => _usuario = value; }
         [DataMember(Name= "id")]
         public int id { get => _id; set => _id = value; }
 

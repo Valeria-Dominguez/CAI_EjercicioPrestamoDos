@@ -37,26 +37,26 @@ namespace EjercicioPrestamo.Datos
             return lista;
         }
 
-        public ResultadoTransaccion Agregar(Prestamo prestamo)
+        public ResultadoTransaccion Agregar(Prestamo prestamo, TipoPrestamo tipoPrestamo)
         {
-            NameValueCollection parametros = ReverseMap(prestamo);
+            NameValueCollection parametros = ReverseMap(prestamo, tipoPrestamo);
             string json = WebHelper.Post(rutaPrestamo, parametros);
             ResultadoTransaccion resultado = JsonConvert.DeserializeObject<ResultadoTransaccion>(json);
             return resultado;
         }
 
-        private NameValueCollection ReverseMap(Prestamo prestamo)
+        private NameValueCollection ReverseMap(Prestamo prestamo, TipoPrestamo tipoPrestamo)
         {
             NameValueCollection n = new NameValueCollection();
-            n.Add("id", "0");
-            n.Add("tna", prestamo.TNA.ToString());
-            n.Add("linea", prestamo.Linea);
-            n.Add("plazo", prestamo.Plazo.ToString());
+            //n.Add("id", "0");
+            n.Add("TNA", prestamo.TNA.ToString());
+            n.Add("Linea", prestamo.Linea);
+            n.Add("Plazo", prestamo.Plazo.ToString());
             n.Add("idCliente", "0");
-            n.Add("idTipo", "0");
-            n.Add("monto", prestamo.Monto.ToString("0.00"));
-            n.Add("cuota", prestamo.Cuota.ToString("0.00"));
-            n.Add("usuario", registro);
+            n.Add("idTipo", tipoPrestamo.id.ToString());
+            n.Add("Monto", prestamo.Monto.ToString("0.00"));
+            n.Add("Cuota", prestamo.Cuota.ToString("0.00"));
+            n.Add("Usuario", registro);
             //n.Add("tna", "0");
             //n.Add("linea", "0");
             //n.Add("id", "0");
