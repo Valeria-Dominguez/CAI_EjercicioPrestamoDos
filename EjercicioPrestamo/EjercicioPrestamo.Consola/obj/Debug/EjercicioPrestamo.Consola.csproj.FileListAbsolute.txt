@@ -1,0 +1,16 @@
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Consola.exe.config
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Consola.exe
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Consola.pdb
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Entidades.dll
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Negocio.dll
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Entidades.pdb
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Negocio.pdb
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\obj\Debug\EjercicioPrestamo.Consola.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\obj\Debug\EjercicioPrestamo.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\obj\Debug\EjercicioPrestamo.Consola.csproj.CopyComplete
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\obj\Debug\EjercicioPrestamo.Consola.exe
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\obj\Debug\EjercicioPrestamo.Consola.pdb
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Datos.dll
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\EjercicioPrestamo.Datos.pdb
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Consola\bin\Debug\Newtonsoft.Json.xml

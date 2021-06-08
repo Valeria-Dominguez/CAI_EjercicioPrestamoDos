@@ -1,0 +1,6 @@
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Entidades\bin\Debug\EjercicioPrestamo.Entidades.dll
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Entidades\bin\Debug\EjercicioPrestamo.Entidades.pdb
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Entidades\obj\Debug\EjercicioPrestamo.Entidades.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Entidades\obj\Debug\EjercicioPrestamo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Entidades\obj\Debug\EjercicioPrestamo.Entidades.dll
+C:\Users\Valeria\Downloads\EjercicioPrestamo\EjercicioPrestamo.Entidades\obj\Debug\EjercicioPrestamo.Entidades.pdb
