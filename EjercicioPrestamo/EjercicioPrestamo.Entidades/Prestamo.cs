@@ -14,7 +14,6 @@ namespace EjercicioPrestamo.Entidades
         double _tNA;
         int _plazo;
         double _monto;
-        //string _usuario;
         int _id;
 
         public Prestamo()
@@ -28,22 +27,26 @@ namespace EjercicioPrestamo.Entidades
             _monto = monto;
         }
 
-        [DataMember(Name= "linea")]
+        [DataMember(Name= "Linea")]
         public string Linea { get => _linea; set => _linea = value; }
-        [DataMember(Name= "tna")]
+
+        [DataMember(Name= "TNA")]
         public double TNA { get => _tNA; set => _tNA = value; }
-        [DataMember(Name= "plazo")]
+
+        [DataMember(Name= "Plazo")]
         public int Plazo { get => _plazo; set => _plazo = value; }
-        [DataMember(Name= "monto")]
+
+        [DataMember(Name= "Monto")]
         public double Monto { get => _monto; set => _monto = value; }
-        //[DataMember(Name= "usuario")]
-        //public string Usuario { get => _usuario; set => _usuario = value; }
+
         [DataMember(Name= "id")]
         public int id { get => _id; set => _id = value; }
 
         public double CuotaCapital { get=> this._monto/this._plazo; }
+
         public double CuotaInteres { get => this.CuotaCapital*(this.TNA/12/100); }
-        [DataMember(Name= "cuota")]
+
+        [DataMember(Name= "Cuota")]
         public double Cuota { get => this.CuotaCapital+this.CuotaInteres; }
 
         public override string ToString()

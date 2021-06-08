@@ -48,7 +48,6 @@ namespace EjercicioPrestamo.Datos
         private NameValueCollection ReverseMap(Prestamo prestamo, TipoPrestamo tipoPrestamo)
         {
             NameValueCollection n = new NameValueCollection();
-            //n.Add("id", "0");
             n.Add("TNA", prestamo.TNA.ToString());
             n.Add("Linea", prestamo.Linea);
             n.Add("Plazo", prestamo.Plazo.ToString());
@@ -57,9 +56,6 @@ namespace EjercicioPrestamo.Datos
             n.Add("Monto", prestamo.Monto.ToString("0.00"));
             n.Add("Cuota", prestamo.Cuota.ToString("0.00"));
             n.Add("Usuario", registro);
-            //n.Add("tna", "0");
-            //n.Add("linea", "0");
-            //n.Add("id", "0");
             return n;
         }
     }
