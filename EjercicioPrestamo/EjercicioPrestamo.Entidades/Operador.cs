@@ -11,14 +11,12 @@ namespace EjercicioPrestamo.Entidades
     {
         List<Prestamo> _prestamos;
         double _procentajeComision;
-        static string porcComision;
 
         public Operador(List<Prestamo> prestamos, double porcentajeComision = 0)
         {
-            porcComision = ConfigurationManager.AppSettings["PORC_COMISION"];
-            if (porcentajeComision == 0 && porcComision != null)
+            if (porcentajeComision == 0 && ConfigurationManager.AppSettings["PORC_COMISION"] != null)
             {
-                this._procentajeComision = double.Parse(porcComision);
+                this._procentajeComision = double.Parse(ConfigurationManager.AppSettings["PORC_COMISION"]);
             }
 
             _prestamos = prestamos;
