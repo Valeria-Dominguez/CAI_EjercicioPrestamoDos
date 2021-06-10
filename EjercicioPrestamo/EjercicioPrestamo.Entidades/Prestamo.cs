@@ -51,7 +51,7 @@ namespace EjercicioPrestamo.Entidades
 
         public override string ToString()
         {
-            return $"{this._id}) Capital: ARS {this._monto}, Interés: ARS {(this.CuotaInteres * this._plazo).ToString("0.00")} - TNA {this._tNA}";
+            return $"{this._id}) Capital: ARS {this._monto.ToString("0.00")}, Interés: ARS {(this.CuotaInteres * this._plazo).ToString("0.00")} - TNA {this._tNA}";
         }
     }
 }
